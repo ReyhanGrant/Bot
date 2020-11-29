@@ -1,25 +1,16 @@
 {
-
   "name": "Example",
-
   "description": "Example",
-
   "version": "0.0.0",
-
   "main": "Bot.js",
-
   "scripts": {
-
     "start": "node bot.js"
-
   },
-
   "dependencies": {
-
-    "discord.js": "11.1.0",
-
-    "request": "12.1.1"
-
+    "discord.js": "^11.1.0",
+    "request": "12.1.1",
+    "ytdl-core": "4.1.0",
+    "ms": "2.1.2",
   }
-
 }
+
